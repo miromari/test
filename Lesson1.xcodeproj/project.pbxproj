@@ -14,6 +14,7 @@
 		4C2D9B8A1D608D12007145C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C2D9B891D608D12007145C2 /* Assets.xcassets */; };
 		4C2D9B8D1D608D12007145C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C2D9B8B1D608D12007145C2 /* LaunchScreen.storyboard */; };
 		4C2D9B951D608E56007145C2 /* lily.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C2D9B941D608E56007145C2 /* lily.jpg */; settings = {ASSET_TAGS = (); }; };
+		4C2D9B971D60E8A4007145C2 /* rose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C2D9B961D60E8A4007145C2 /* rose.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4C2D9B8C1D608D12007145C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C2D9B8E1D608D12007145C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C2D9B941D608E56007145C2 /* lily.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lily.jpg; sourceTree = "<group>"; };
+		4C2D9B961D60E8A4007145C2 /* rose.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rose.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				4C2D9B861D608D12007145C2 /* Main.storyboard */,
 				4C2D9B891D608D12007145C2 /* Assets.xcassets */,
 				4C2D9B941D608E56007145C2 /* lily.jpg */,
+				4C2D9B961D60E8A4007145C2 /* rose.jpg */,
 				4C2D9B8B1D608D12007145C2 /* LaunchScreen.storyboard */,
 				4C2D9B8E1D608D12007145C2 /* Info.plist */,
 				4C2D9B7D1D608D12007145C2 /* Supporting Files */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C2D9B8D1D608D12007145C2 /* LaunchScreen.storyboard in Resources */,
+				4C2D9B971D60E8A4007145C2 /* rose.jpg in Resources */,
 				4C2D9B951D608E56007145C2 /* lily.jpg in Resources */,
 				4C2D9B8A1D608D12007145C2 /* Assets.xcassets in Resources */,
 				4C2D9B881D608D12007145C2 /* Main.storyboard in Resources */,
@@ -311,6 +315,7 @@
 				4C2D9B931D608D12007145C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
